@@ -11,7 +11,7 @@ export const brand = {
   coverage: "Pereira, Armenia y Manizales",
   coverageLong: "Pereira, Armenia, Manizales y cobertura nacional",
   agency: "Sano y Salvo Agencia de Seguros (Grupo Caminos)",
-  photo: "/asesora.jpg",
+  photo: "/asesora.png",
   whatsappMessage: "Hola, vi tu página web y quiero agendar una asesoría.",
   insurers: ["SURA", "Allianz", "HDI Seguros", "SBS", "La Equidad"],
 } as const;
